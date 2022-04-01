@@ -1,2 +1,1 @@
-#!/bin/bash
-telnet seehd.nl
+telnet towel.blinkenlights.nl
