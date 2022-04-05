@@ -1,2 +1,1 @@
-Shell Readme file
-Descriptions
+Describing what each script is doing
