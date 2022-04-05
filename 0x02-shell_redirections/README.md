@@ -1,2 +1,2 @@
-Shell redirections Readme
-desription
+Shell Readme file
+Descriptions
