@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# A bash script to display  10 times Best School.
+# In the 9th iteration,
+# Displays Best School and then Hi on a new line.
+
+count=0
+
+while [ $count -lt 10 ]
+do
+  if [ $count -eq 9 ]
+  then
+    echo "Hi"
+  fi
+  echo "Best School"
+  (( count++ ))
+done
